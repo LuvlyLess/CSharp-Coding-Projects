@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\bin\Debug\Price-Quote Application Submission.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\bin\Debug\Price-Quote Application Submission.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\bin\Debug\Price-Quote Application Submission.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\obj\Debug\Price-Quote Application Submission.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\obj\Debug\Price-Quote Application Submission.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\obj\Debug\Price-Quote Application Submission.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\obj\Debug\Price-Quote Application Submission.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Price-Quote Application Submission\Price-Quote Application Submission\obj\Debug\Price-Quote Application Submission.pdb
