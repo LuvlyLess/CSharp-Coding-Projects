@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb
