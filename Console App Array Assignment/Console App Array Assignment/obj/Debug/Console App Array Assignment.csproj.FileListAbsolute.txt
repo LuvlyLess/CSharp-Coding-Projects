@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.pdb
