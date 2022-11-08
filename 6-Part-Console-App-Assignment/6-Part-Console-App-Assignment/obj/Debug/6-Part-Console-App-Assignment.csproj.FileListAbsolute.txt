@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\obj\Debug\6-Part-Console-App-Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\obj\Debug\6-Part-Console-App-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\obj\Debug\6-Part-Console-App-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\bin\Debug\6-Part-Console-App-Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\bin\Debug\6-Part-Console-App-Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\bin\Debug\6-Part-Console-App-Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\obj\Debug\6-Part-Console-App-Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\6-Part-Console-App-Assignment\6-Part-Console-App-Assignment\obj\Debug\6-Part-Console-App-Assignment.pdb
