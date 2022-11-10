@@ -150,25 +150,30 @@ namespace _6_Part_Console_App_Assignment
             //}
             //        Console.ReadLine();
 
-
-            List<string> Identicalnames = new List<string> { "Christine", "smith", "Amber", "Christopher", "Mathew", "martin", "miller", "mark", "mark" }; //i declared a variable that holds an array of strings
-            Console.WriteLine("checking for duplicate names \n"); // Informing User of programs intentions
-            
-
-
-
-                foreach (string Identicalname in Identicalnames)// foreach loop searching for duplicate elements
+            // Setting my array of int
+                int[] arr = {
+            24,
+            10,
+            56,
+            32,
+            10,
+            43,
+            88,
+            32
+         };
+                var d = new Dictionary<int, int>(); // created a new dictionary
+                foreach (var res in arr) //Using the dictionary method ContainsKey(), find the duplicate elements in the array
             {
-                if (Identicalname.Distinct().Count() == 4) // here ive taken a risk and made my if statement based on no one having a short name but mark 
-                {
-                    Console.WriteLine("This Items Not Unique "  + Identicalname); // This is My console output for common names (ie) mark.
+                    if (d.ContainsKey(res))
+                        d[res]++;
+                    else
+                        d[res] = 1;
                 }
-                else
-                {
-                    Console.WriteLine("This item is Unique" + Identicalname); // This is my console out put for Unique names.
-                }
-            }
+                foreach (var val in d)
+                    Console.WriteLine("{0} occurred {1} times", val.Key, val.Value);
+                
                 Console.ReadLine();
+            
 
 
 
