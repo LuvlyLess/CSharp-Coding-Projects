@@ -151,29 +151,22 @@ namespace _6_Part_Console_App_Assignment
             //        Console.ReadLine();
 
             // Setting my array of int
-                int[] arr = {
-            24,
-            10,
-            56,
-            32,
-            10,
-            43,
-            88,
-            32
-         };
-                var d = new Dictionary<int, int>(); // created a new dictionary
-                foreach (var res in arr) //Using the dictionary method ContainsKey(), find the duplicate elements in the array
+                List<string> Mainlist = new List<string>() { "mike", "mark", "matt", "mathew", "mike" };  // creating my list of strings
+            List<string> CheckList = new List<string>();                          // creating an empty list to populate with mainlist elements to check
+
+            foreach (var val in Mainlist)   // foreach loop checking each index value
             {
-                    if (d.ContainsKey(res))
-                        d[res]++;
-                    else
-                        d[res] = 1;
+                if (!CheckList.Contains(val))           // checking if main list doesn't contain value
+                {
+                    Console.WriteLine("This Name " + val + " Has not appeared yet.");   // prints value if  Check list does not contain value
+                    CheckList.Add(val);  // adding value from Main List to checklist 
                 }
-                foreach (var val in d)
-                    Console.WriteLine("{0} occurred {1} times", val.Key, val.Value);
-                
+                else if (CheckList.Contains(val))      // If Check list already contains value
+                {
+                    Console.WriteLine("This Name " + val + " Has Appeared"); // console prints " name "  has appeared
+                }
+            }
                 Console.ReadLine();
-            
 
 
 
