@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\Main_Method_Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\Main_Method_Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\bin\Debug\Main_Method_Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\Main_Method_Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\Main_Method_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\Main_Method_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\Main_Method_Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Main_Method_Assignment\Main_Method_Assignment\obj\Debug\Main_Method_Assignment.pdb
