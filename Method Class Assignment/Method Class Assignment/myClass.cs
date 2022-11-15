@@ -13,7 +13,8 @@ namespace Method_Class_Assignment
         public static void VoidMethod1(int FirstNumber, int SecondNumber) // creating named parameters to be called by name on Main() program
         {
             Console.WriteLine( FirstNumber + 4 + " int X = 1 plus Four Equals five");
-            Console.WriteLine("Displaying second int y Equals " + SecondNumber);   
+            Console.WriteLine("Displaying second int y Equals " + SecondNumber);
+            Console.WriteLine(FirstNumber + " Passing Both ints " + SecondNumber);
         }
 
         internal void VoidMethod1(object y)
