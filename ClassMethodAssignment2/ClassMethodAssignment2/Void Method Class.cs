@@ -33,6 +33,11 @@ namespace ClassMethodAssignment2
         {
             return x * y;
         }
-
+        
+        public void getValue(out int x)
+        {
+            Console.WriteLine("Enter a value");
+            x = Convert.ToInt32(Console.ReadLine());
+        }
     }
 }
