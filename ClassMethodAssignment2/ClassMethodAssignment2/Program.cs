@@ -30,9 +30,13 @@ namespace ClassMethodAssignment2
             Console.WriteLine(InstantiateClass.MethParams((int)5.75F, (int)3.75F));
 
 
-           
+           // calling method with Output parameters
+            int a;
+            InstantiateClass.getValue(out a);
+
 
             Console.ReadLine();
+
         }
     }
 }
