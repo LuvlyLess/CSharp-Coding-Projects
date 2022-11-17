@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.pdb
